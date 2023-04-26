@@ -1,0 +1,19 @@
+
+                --------------Imagine Costume Rental Shop-------------
+                ---------------Itahari-4, Sunsari,Nepal---------------
+                
+Customer Name: jeeban                                           Date: 2022-08-27 
+
+Name				Brand			Price			Quantity			Total
+
+Fairy Costume  		DollarSmart		18					5				90.0
+
+
+
+
+
+
+                                                                  Grand Total: 90.0
+
+
+								 Thank you for renting with us.
