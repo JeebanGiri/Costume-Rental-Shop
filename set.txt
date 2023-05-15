@@ -1,4 +1,4 @@
 Cop Costume Set,Cartmax   ,$15,111
 Formal Suite   ,Megaplex,$14.5,53
-Fairy Costume  ,DollarSmart,$18,54
+Fairy Costume  ,DollarSmart,$18,52
 Cultural suite ,RealCotton ,$16,189
